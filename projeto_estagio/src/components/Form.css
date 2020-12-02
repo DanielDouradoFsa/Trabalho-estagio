@@ -1,0 +1,56 @@
+#initial{
+    width: 100vw;
+    height: 100vh;
+    color: rgb(15, 94, 214);
+    background-image: url(../assets/astronomia2.jpeg); 
+    background-size: cover;
+    background-position: center;
+}
+#form{
+    width: 33%;
+    height: 90vh;
+    background: #ffffff;
+    background-color: #c2d5ff;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    padding: 15px 15px 15px 15px ; 
+    margin: 30px 385px 0 0;
+    border-radius: 18px;
+    opacity : 0.9;
+    float: right;  
+}
+#title2{
+    margin-left: 120px; 
+    font-family: 'Segoe UI';
+    color: #575d80;
+    font-size: 32px;
+}
+#erro{
+    color: red;
+    font-size: 13px;
+}
+#info{
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    font-style: normal;
+    color: #575d80;
+}
+#loginn{
+    margin-bottom: 20px;
+}
+#inputGridLogin{
+    width: 250px;
+}
+#inputGridPassword{
+    width: 250px;
+}
+#cadastrar{
+    margin: 30px 140px 10px 0;
+    font-family: 'Segoe UI';
+ } 
+ 
+ #entrar{
+     margin: 20px 50px 0 0;
+     font-family: 'Segoe UI';
+ }  

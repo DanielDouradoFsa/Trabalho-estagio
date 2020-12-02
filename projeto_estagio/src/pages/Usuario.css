@@ -1,0 +1,44 @@
+* {
+  margin: 0 0;
+  padding: 0 0;
+}
+a {
+  outline: none;
+}
+
+body {
+  background-color: white;
+}
+
+
+#div_sidebar {
+  width: 15vw;
+  height: 100vh;
+  float: left;
+  background-color: white !important;
+}
+
+#div_user {
+  background-image: url(../assets/contato.png);
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#div_screen {
+  margin: 30px auto 0 auto;
+  height: 85vh;
+  width: 80vw;
+  float: right;
+  padding: 10px;
+  background-color: white;
+  overflow-y: auto;
+}
+
+.MuiPaper-root {
+  flex-wrap: wrap;
+  width: 70vw;
+  height: 70vh;
+}
